@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name INA1620-headphone-amp-rescue)(type Legacy)(uri "${KIPRJMOD}/INA1620 headphone amp-rescue.lib")(options "")(descr ""))
+)

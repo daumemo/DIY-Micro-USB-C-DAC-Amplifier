@@ -1,0 +1,22 @@
+Id;Designator;Package;Quantity;Designation;;
+7;C1;C_0603_1608Metric;1;10u;;
+8;C2;C_0402_1005Metric;1;100n;;
+9;C3,C4;C_0603_1608Metric;2;4u7;;
+10;C5;C_0603_1608Metric;1;10u;;
+11;C6;C_0402_1005Metric;1;200n (220n);;
+12;L1;L_Wuerth_MAPI-2512;1;2u2;;
+13;R1;R_0402_1005Metric;1;360k;;
+14;R2;R_0402_1005Metric;1;120k;;
+15;R3;R_0402_1005Metric;1;470k;;
+16;R4,R5;R_0402_1005Metric;2;22k;;
+17;R7;R_0402_1005Metric;1;470k;;
+18;U1;QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm;1;TPS65135;;
+19;U2;QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm;1;INA1620;;
+20;R6;R_0603_1608Metric;1;560k;;
+;;;;;;
+;;;;;;
+;;;;;;
+Parts not on the board:;;;;;;
+1;USB 4 wire cable;;;;;
+2;USB-C DAC;https://s.click.aliexpress.com/e/_AY67DI;;Or Alternative:;;https://s.click.aliexpress.com/e/_ANoKTm
+3;3.5 mm Jack;https://s.click.aliexpress.com/e/_9x1f60;;;;
